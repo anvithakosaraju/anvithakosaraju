@@ -1,4 +1,4 @@
-# Hello, my name is Anvitha Kosaraju!
+## Hello, my name is Anvitha Kosaraju!
 
 You can use the [editor on GitHub](https://github.com/anvithakosaraju/anvithakosaraju/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
