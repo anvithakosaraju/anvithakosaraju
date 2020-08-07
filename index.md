@@ -1,8 +1,13 @@
-# Hello, my name is Anvitha Kosaraju!
+# Hello! My name is Anvitha Kosaraju.
 
-You can use the [editor on GitHub](https://github.com/anvithakosaraju/anvithakosaraju/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me!
+![Image](src)
+I am a Junior at Vanderbilt University majoring in Computer Science, Economics, and Math. . 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My Interests:
+I am interested in Software and Project Management Opportunities.
+
+##
 
 ### Markdown
 
@@ -23,7 +28,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
